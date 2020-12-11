@@ -13,7 +13,7 @@ function UserTag(props){
                 <br/>
                 <div><b>{user.name}</b></div>
                 <div className="w3-text-grey">{user.email}</div>
-                <div className="w3-text-blue"><a href={user.website} target="_blank">{user.website}</a></div>
+                <div className="w3-text-blue"><a rel="noreferrer" href={user.website} target="_blank">{user.website}</a></div>
                 <br/>
                 <NavLink to={"/user/" + user.id}>
                     <div className="w3-btn w3-blue w3-round-large">MORE DETAILS</div>
