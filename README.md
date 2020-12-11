@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can check the project URL here [Demo](http://integrify-anhnguyen.web.app/)
+You can check the project URL here [Demo](http://integrify-anhnguyen.web.app/). \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
